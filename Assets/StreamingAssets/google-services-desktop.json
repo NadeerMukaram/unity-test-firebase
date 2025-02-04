@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "261110899167",
+    "project_id": "crud-firebase-431b3",
+    "firebase_url": "https://crud-firebase-431b3-default-rtdb.firebaseio.com",
+    "storage_bucket": "crud-firebase-431b3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261110899167:android:f82c51cb8fa484d847646a",
+        "android_client_info": {
+          "package_name": "com.nzro.firebaseunitynzro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4CV6p222SD1hWiXRZd-qOAG2htJeySTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
